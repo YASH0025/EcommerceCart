@@ -1,0 +1,449 @@
+{
+  "ProductData": [
+    {
+      "id": 1,
+      "name": "Blue T-Shirt",
+      "price": 19,
+      "category": ["Apparel", "Fashion"],
+      "description": "Embrace comfort and style with our Blue T-Shirt. Crafted from premium fabric, this versatile tee is perfect for casual wear. Available in a range of vibrant colors and sizes",
+      "image": "https://plus.unsplash.com/premium_photo-1682096261732-88a83f8bb20b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/81Af-VPm9YL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811ll58en2L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81xLqKvBWIL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Red T-Shirt",
+      "price": 100.1,
+      "category": ["Apparel", "Fashion"],
+      "description": "Make a bold statement with our Red T-Shirt. This stylish tee, made from high-quality fabric, is designed to catch the eye. Express your personality with a variety of colors and sizes to choose from",
+      "image": "https://media.istockphoto.com/id/1167771770/photo/young-handsome-indian-man-wearing-t-shirt-over-isolated-red-background-very-happy-and-excited.jpg?s=1024x1024&w=is&k=20&c=ig6oZfr5pVmF93HSUfSvyuCOTPlQqPkxKgT3senbteU=",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71TlaNIbJFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZR60qatcL._SL1045_.jpg",
+        "https://m.media-amazon.com/images/I/51OxjFOYbvL._SL1045_.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "price": 29.99,
+      "category": ["Electronics", "Wearables"],
+      "description": "Elevate your style and stay connected with our Smart Watch. This sleek and modern accessory not only keeps you in fashion but also tracks your activities. Available in multiple colors and sizes for a personalized touch.",
+      "image": "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/61YVUOHcrqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613qdkhKisL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Bw1IRUgkL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 59.99,
+      "category": ["Fashion", "Footwear"],
+      "description": "Step into high-performance with our Running Shoes. Engineered for comfort and durability, these shoes are perfect for your daily workout. Whether you're jogging or hitting the gym, these shoes are designed to keep up with your active lifestyle",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/51IBu2jhq4L._SL1100_.jpg",
+        "https://m.media-amazon.com/images/I/61vcHDCt46L._SL1100_.jpg",
+        "https://m.media-amazon.com/images/I/519q6019bBL._SL1100_.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sneakers",
+      "price": 53.83,
+      "category": ["Fashion", "Footwear"],
+      "description": "Step into style and comfort with our Sneakers. High-quality running shoes for your daily workout. Available in various colors and sizes to suit your active lifestyle.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/61zPeSTJ81L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714-7kujEZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61sp4bxp9QL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lipbalm",
+      "price": 59.99,
+      "category": ["SkinCare", "MakeUp"],
+      "description": "Indulge in high-performance skincare with our Lipbalm. A moisturizer for your daily skincare routine. Available in multiple colors and sizes for a personalized touch.",
+      "image": "https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/51OHOXJhEAL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/41hQWql4NxL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61J2h0paG6L._SL1200_.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mini Van",
+      "price": 59.99,
+      "category": ["Toys", "Kids"],
+      "description": "Fuel your child's imagination with our Mini Van toy. A high-performance addition to your child's playtime. Available in multiple colors for endless fun.",
+      "image": "https://images.unsplash.com/photo-1447931958677-954446df5f70?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/414AplC3HgL._SY300_SX300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61Y5GkdGvmL._SL1182_.jpg",
+        "https://m.media-amazon.com/images/I/51Ye5986X2L._SL1200_.jpg"
+      ]
+    },
+
+    {
+      "id": 9,
+      "name": "Black T-Shirt",
+      "price": 19.99,
+      "category": ["Apparel", "Fashion"],
+      "description": "Embrace style and comfort with our Black T-Shirt. A comfortable tee made from high-quality fabric. Available in various colors and sizes for a trendy look.",
+      "image": "https://images.unsplash.com/photo-1610502778270-c5c6f4c7d575?q=80&w=1467&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/519EYGUn42L._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51V5ZrVZxzL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51iowd-jHKL._SL1200_.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "White T-Shirt",
+      "price": 19.99,
+      "category": ["Apparel", "Fashion"],
+      "description": "Experience comfort in our White T-Shirt. A cozy tee made from high-quality fabric. Available in various colors and sizes to elevate your casual style.",
+      "image": "https://plus.unsplash.com/premium_photo-1682096353438-03b20899f011?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/81guIxQ9oYL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81j9pccucoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71f20Q7tQQL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Smart Watch",
+      "price": 29.99,
+      "category": ["Electronics", "Wearables"],
+      "description": "Stay in style with our Smart Watch. A stylish timepiece that keeps you in trend. Available in various colors and sizes for a personalized touch.",
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/61YVUOHcrqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613qdkhKisL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Bw1IRUgkL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Boots",
+      "price": 59.99,
+      "category": ["Fashion", "Footwear"],
+      "description": "Step out in style with our Boots. High-performance footwear for your daily workout. Available in various colors and sizes for a fashionable look.",
+      "image": "https://images.unsplash.com/photo-1554133818-7bb790d55236?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/61LL-8KcciL._SY625_.jpg",
+        "https://m.media-amazon.com/images/I/81W8ZVloFrL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ojIo4OcAL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "HighTop Sneakers",
+      "price": 59.99,
+      "category": ["Fashion", "Footwear"],
+      "description": "Elevate your style with our HighTop Sneakers. High-performance running shoes for your daily workout. Available in various colors and sizes for a sporty and trendy look.",
+      "image": "https://images.unsplash.com/photo-1695748966450-3abe5c25b481?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/713NV93UohL._SX625_.jpg",
+        "https://m.media-amazon.com/images/I/7104ZIahkiL._SX625_.jpg",
+        "https://m.media-amazon.com/images/I/71tQxd6H+bL._SX625_.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hand Gun",
+      "price": 59.99,
+      "category": ["Toys", "Kids", "Kids"],
+      "description": "Fuel your child's imagination with our Hand Gun toy. A high-performance addition to your child's playtime. Available in multiple colors for endless fun,",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210619/V2gK/60ccf1d1f997ddb312d13d1a/-1117Wx1400H-4919026200-multi-MODEL.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/611LQyj4lxL._SY450_.jpg",
+        "https://m.media-amazon.com/images/I/61E+bfGRavL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/611LQyj4lxL._SL1200_.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Kitchen Set",
+      "price": 59.99,
+      "category": ["Kitchen", "Home"],
+      "description": "Enhance your kitchen with our Kitchen Set. High-performance utensils for your daily cooking needs. Available in multiple colors and sizes to suit your kitchen decor.",
+      "image": "https://images.unsplash.com/photo-1617784625140-515e220ba148?q=80&w=1634&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/61wJSHCo7fL._SL1100_.jpg",
+        "https://m.media-amazon.com/images/I/817bAuVlUGL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-j8ESPAWL._SX300_SY300_QL70_FMwebp_.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "MicroWave",
+      "price": 59.99,
+      "category": ["Kitchen", "Home"],
+      "description": "Upgrade your kitchen with our MicroWave. A high-performance appliance for your daily cooking needs. Available in various colors and sizes to complement your kitchen decor.",
+      "image": "https://akm-img-a-in.tosshub.com/sites/rd/resources/202006/shutterstock_74910703_1592489390_1200x675.jpeg?size=684:384",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71DQGXSkOPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71swcc7qK9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71PpgJO6mvL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Washing Machine",
+      "price": 59.99,
+      "category": ["Kitchen", "Home"],
+      "description": "Pamper your skin with our Face Cream. A high-performance moisturizer for your daily skincare routine. Available in various colors and sizes for a personalized skincare experience.",
+      "image": "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71VmO+fuDmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819qd1Nv8gL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71h9O07+SYL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Face Cream",
+      "price": 59.99,
+      "category": ["SkinCare", "MakeUp"],
+      "description": "Enhance your beauty with our Makeup products. High-performance cosmetics for your daily skincare and makeup routine. Available in various colors and sizes for a flawless look.",
+      "image": "https://files.themomsco.com/site-images/1200x1200/70a934b0-487a-11ec-b6c5-957ebacf6f5e.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71UvwuiHk1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71J2zdMzpUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/712hTCzr7TL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Makeup",
+      "price": 59.99,
+      "category": ["SkinCare", "MakeUp"],
+      "description": "Enhance your beauty with our Makeup products. High-performance cosmetics for your daily skincare and makeup routine. Available in various colors and sizes for a flawless look.",
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/41qGMGa5uNL._SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61ohtCKrocL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51Zj8Fvcg8L._SL1000_.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Some Thing I Waiting Tell You",
+      "price": 59.99,
+      "category": ["Books", "Reading"],
+      "description": "Dive into the world of literature with 'Some Thing I Waiting Tell You.' A high-performance book for your daily reading. Available in multiple formats for an immersive reading experience.",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661607041i/60778147.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/51hYPrHTPYL._SX342_SY445_.jpg",
+        "https://m.media-amazon.com/images/I/91t1xd7dBCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81LlCcudvuL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Achemist",
+      "price": 59.99,
+      "category": ["Books", "Reading"],
+      "description": "Explore the magical world of 'Alchemist.' A high-performance book for your daily reading. Available in multiple formats for an enchanting reading experience.",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/11/QQ/SI/XU/60672026/5.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/51bVNTqHFlL._SL1331_.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2021/11/QQ/SI/XU/60672026/5.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Cricket Bat",
+      "price": 59.99,
+      "category": ["Sports", "Kids"],
+      "description": "Elevate your cricket game with our Cricket Bat. A high-performance bat for your daily cricket practice. Available in various colors and sizes for a powerful game.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/A_Modern_Cricket_Bat.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/415hn4gpFDL._SL1110_.jpg",
+        "https://m.media-amazon.com/images/I/51If23VIPiL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "SG Cricket Ball",
+      "price": 59.99,
+      "category": ["Sports", "Kids"],
+      "description": "Perfect your cricket skills with our SG Cricket Ball. A high-performance ball for your daily cricket practice. Available in various colors and sizes for a thrilling game.",
+      "image": "https://www.nfsportech.com/cdn/shop/products/test2.jpg?v=1562756965",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/419YNJIeFXL.jpg",
+        "https://m.media-amazon.com/images/I/61aOLks3RdL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/41W05CtO4hL.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Smart Watch",
+      "price": 29.99,
+      "category": ["Electronics", "Wearables"],
+      "description": "A stylish watch hoodi keeps you in style.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1399&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/61aVQDazNHL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61c+v6GIsjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61XmNBJTyNL._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Nestle Cerelac Baby",
+      "price": 29.99,
+      "category": ["Kids", "BabyFood","YS"],
+      "description": "Special Item for 'Rotli Devi' Nurture your baby with Nestle Cerelac. A nutritious and high-performance baby food for your little one. Available in various flavors and sizes for a healthy start.",
+      "image": "https://m.media-amazon.com/images/I/71QXzCbnAPL._SL1500_.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71QXzCbnAPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ltkO9IvpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71G5-9838uL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Baby Sling Carrier",
+      "price": 29.99,
+      "category": ["Kids", "Toys", "Baby", "YS"],
+      "description": "Special Item for 'Rotli Devi' Carry your baby in style with our Baby Sling Carrier. A comfortable and high-performance accessory for your daily outings. Available in various colors and sizes for a secure and fashionable experience.A Good Food For the Rotla Baby.",
+      "image": "https://m.media-amazon.com/images/I/71nfdZ4dX7L._SL1500_.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": true,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71nfdZ4dX7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Elq70p3hL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61q0BdZv9PL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "name": " Baby Feeding Bottle",
+      "price": 29.99,
+      "category": ["Kids", "Toys", "Baby"],
+      "description": "Feed baby with our Baby Feeding Bottle. A safe and high-performance bottle for your little one. Available in various colors and sizes for a convenient feeding experience.",
+      "image": "https://m.media-amazon.com/images/I/81cze7QiV3L._SL1500_.jpg",
+      "colors": ["Red", "Blue", "Green"],
+      "sizes": ["Small", "Medium", "Large"],
+      "stock": 10,
+      "manageStock": false,
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/81cze7QiV3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+-uRYA8yL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VCXhelP+L._SL1500_.jpg"
+      ]
+    }
+
+    
+    
+    
+  ]
+}

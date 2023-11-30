@@ -1,0 +1,9 @@
+
+
+
+manageStock -> false
+    Always show add to cart and user can place any qty of order.
+manageStock -> true
+    check qty -> if it`s greater than 0 then add to cart other out of stock
+
+

@@ -1,0 +1,377 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "price": 19.99,
+        "category": ["Category 1", "Category 2"],
+        "quantity": 100,
+        "inStock": true,
+        "manageStock": true,
+        "attributes": {
+          "colorOptions": ["Color 1", "Color 2"],
+          "sizeOptions": ["Size 1", "Size 2"]
+        },
+        "description": "Description of Product 1",
+        "slug": "product-1",
+        "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_1",
+        "imageUrls": ["image_url1_1", "image_url1_2", "image_url1_3"]
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "price": 24.99,
+        "category": ["Category 3", "Category 4"],
+        "quantity": 50,
+        "inStock": true,
+        "manageStock": true,
+        "attributes": {
+          "colorOptions": ["Color 3", "Color 4"],
+          "sizeOptions": ["Size 3", "Size 4"]
+        },
+        "description": "Description of Product 2",
+        "slug": "product-2",
+        "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_2",
+        "imageUrls": ["image_url2_1", "image_url2_2", "image_url2_3"]
+      },
+    
+      {
+        "id": 6,
+        "name": "Sneakers",
+        "price": 59.99,
+        "category": ["Fashion", "Footwear"],
+        "quantity": 100,
+        "inStock": true,
+        "manageStock": true,
+        "attributes": {
+          "colorOptions": ["White", "Black", "Red"],
+          "sizeOptions": ["6", "7", "8", "9", "10"]
+        },
+        "description": "Stylish sneakers for everyday wear.",
+        "slug": "sneakers",
+        "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_6",
+        "imageUrls": ["sneakers_image1.jpg", "sneakers_image2.jpg"]
+      },
+      {
+        "id": 7,
+        "name": "Sunglasses",
+        "price": 39.99,
+        "category": ["Fashion", "Accessories"],
+        "quantity": 200,
+        "inStock": true,
+        "manageStock": true,
+        "attributes": {
+          "colorOptions": ["Black", "Brown", "Gray"],
+          "sizeOptions": ["Standard"]
+        },
+        "description": "Stylish sunglasses to protect your eyes from the sun.",
+        "slug": "sunglasses",
+        "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_7",
+        "imageUrls": ["sunglasses_image1.jpg", "sunglasses_image2.jpg"]
+      },
+      {
+        "id": 8,
+        "name": "Saree",
+        "price": 69.99,
+        "category": ["Fashion", "Traditional Wear"],
+        "quantity": 50,
+        "inStock": true,
+        "manageStock": true,
+        "attributes": {
+          "colorOptions": ["Red", "Blue", "Green"],
+          "sizeOptions": ["Standard"]
+        },
+        "description": "Elegant saree for special occasions.",
+        "slug": "saree",
+        "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_8",
+        "imageUrls": ["saree_image1.jpg", "saree_image2.jpg"]
+      },
+      {
+        "id": 9,
+        "name": "TV",
+        "price": 499.99,
+        "category": ["Electronics", "Televisions"],
+        "quantity": 30,
+        "inStock": true,
+        "manageStock": true,
+        "attributes": {
+          "colorOptions": ["Black"],
+          "sizeOptions": ["42-inch", "55-inch", "65-inch"]
+        },
+        "description": "High-definition TV for immersive entertainment.",
+        "slug": "tv",
+        "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_9",
+        "imageUrls": ["tv_image1.jpg", "tv_image2.jpg"]
+      },
+
+
+
+       {
+    "name": "Gaming PC",
+    "price": 1499.99,
+    "category": ["Electronics", "Gaming PCs"],
+    "quantity": 5,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "RGB"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "High-performance gaming PC for a superior gaming experience.",
+    "slug": "gaming-pc",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_22",
+    "imageUrls": ["image_url22_1.jpg", "image_url22_2.jpg"]
+  },
+  
+  
+  {
+    "name": "Gaming Laptop",
+    "price": 1299.99,
+    "category": ["Electronics", "Gaming Laptops"],
+    "quantity": 8,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "Red"],
+      "sizeOptions": ["15-inch", "17-inch"]
+    },
+    "description": "Gaming laptop with powerful hardware for on-the-go gaming.",
+    "slug": "gaming-laptop",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_23",
+    "imageUrls": ["image_url23_1.jpg", "image_url23_2.jpg"]
+  },
+
+  
+  {
+    "name": "Keypad Phone",
+    "price": 49.99,
+    "category": ["Electronics", "Mobile Phones"],
+    "quantity": 20,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "White"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "Classic keypad phone with long battery life.",
+    "slug": "keypad-phone",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_24",
+    "imageUrls": ["image_url24_1.jpg", "image_url24_2.jpg"]
+  },
+
+
+  {
+    "name": "Jeans Pants",
+    "price": 39.99,
+    "category": ["Fashion", "Clothing"],
+    "quantity": 25,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Blue", "Black"],
+      "sizeOptions": ["28", "30", "32", "34"]
+    },
+    "description": "Stylish jeans pants for a trendy look.",
+    "slug": "jeans-pants",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_25",
+    "imageUrls": ["image_url25_1.jpg", "image_url25_2.jpg"]
+  },
+
+  
+  {
+    "name": "Jacket",
+    "price": 59.99,
+    "category": ["Fashion", "Outerwear"],
+    "quantity": 15,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "Gray", "Navy"],
+      "sizeOptions": ["Small", "Medium", "Large"]
+    },
+    "description": "Warm and fashionable jacket for cold weather.",
+    "slug": "jacket",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_26",
+    "imageUrls": ["image_url26_1.jpg", "image_url26_2.jpg"]
+  },
+  
+  {
+    "name": "Digital Camera",
+    "price": 249.99,
+    "category": ["Electronics", "Cameras"],
+    "quantity": 10,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "Capture high-quality photos and videos with this digital camera.",
+    "slug": "digital-camera",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_11",
+    "imageUrls": ["image_url11_1.jpg", "image_url11_2.jpg"]
+  },
+  {
+    "name": "Blender",
+    "price": 49.99,
+    "category": ["Appliances", "Kitchen"],
+    "quantity": 30,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["White"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A powerful blender for making smoothies and more.",
+    "slug": "blender",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_12",
+    "imageUrls": ["image_url12_1.jpg", "image_url12_2.jpg"]
+  },
+  {
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "category": ["Accessories", "Peripherals"],
+    "quantity": 40,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "Silver"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A wireless mouse for improved productivity.",
+    "slug": "wireless-mouse",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_13",
+    "imageUrls": ["image_url13_1.jpg"]
+  },
+  {
+    "name": "Smartwatch",
+    "price": 89.99,
+    "category": ["Electronics", "Wearables"],
+    "quantity": 20,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "Gold"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A smartwatch to keep you connected and active.",
+    "slug": "smartwatch",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_14",
+    "imageUrls": ["image_url14_1.jpg", "image_url14_2.jpg"]
+  },
+  {
+    "name": "Desk Lamp",
+    "price": 29.99,
+    "category": ["Home Decor", "Lighting"],
+    "quantity": 35,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "White"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A stylish desk lamp to brighten up your workspace.",
+    "slug": "desk-lamp",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_15",
+    "imageUrls": ["image_url15_1.jpg", "image_url15_2.jpg"]
+  },
+  {
+    "name": "Leather Wallet",
+    "price": 29.99,
+    "category": ["Accessories", "Wallets"],
+    "quantity": 45,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "Brown"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A stylish leather wallet to keep your essentials organized.",
+    "slug": "leather-wallet",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_16",
+    "imageUrls": ["image_url16_1.jpg", "image_url16_2.jpg"]
+  },
+  {
+    "name": "Gaming Headset",
+    "price": 69.99,
+    "category": ["Electronics", "Gaming Accessories"],
+    "quantity": 25,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "Red"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A gaming headset for an immersive gaming experience.",
+    "slug": "gaming-headset",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_17",
+    "imageUrls": ["image_url17_1.jpg", "image_url17_2.jpg"]
+  },
+  {
+    "name": "Digital Watch",
+    "price": 49.99,
+    "category": ["Accessories", "Watches"],
+    "quantity": 30,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "Silver"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A digital watch with various features and style.",
+    "slug": "digital-watch",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_18",
+    "imageUrls": ["image_url18_1.jpg", "image_url18_2.jpg"]
+  },
+  {
+    "name": "Desktop Monitor",
+    "price": 199.99,
+    "category": ["Electronics", "Monitors"],
+    "quantity": 20,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black"],
+      "sizeOptions": ["24-inch", "27-inch"]
+    },
+    "description": "A high-resolution desktop monitor for work and entertainment.",
+    "slug": "desktop-monitor",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_19",
+    "imageUrls": ["image_url19_1.jpg", "image_url19_2.jpg"]
+  },
+  {
+    "name": "Digital Scale",
+    "price": 39.99,
+    "category": ["Home & Kitchen", "Appliances"],
+    "quantity": 40,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A digital scale for precise weight measurements in the kitchen.",
+    "slug": "digital-scale",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_20",
+    "imageUrls": ["image_url20_1.jpg"]
+  },
+  {
+    "name": "Wireless Keyboard",
+    "price": 49.99,
+    "category": ["Electronics", "Keyboards"],
+    "quantity": 35,
+    "inStock": true,
+    "manageStock": true,
+    "attributes": {
+      "colorOptions": ["Black", "White"],
+      "sizeOptions": ["Standard"]
+    },
+    "description": "A wireless keyboard for a clutter-free workspace.",
+    "slug": "wireless-keyboard",
+    "youtubeVideoURL": "https://www.youtube.com/watch?v=video_id_21",
+    "imageUrls": ["image_url21_1.jpg"]
+  }
+]
+}
+
+  
